@@ -12,12 +12,7 @@ namespace Mobilecenter
     {
         public Page1()
         {
-            Content = new StackLayout
-            {
-                Children = {
-                    new Label { Text = "Hello Page" }
-                }
-            };
+            
         }
     }
 }
